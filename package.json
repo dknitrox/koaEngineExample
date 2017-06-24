@@ -1,0 +1,25 @@
+{
+  "name": "koaEngine",
+  "version": "1.0.0",
+  "description": "Koa Engine example",
+  "main": "index.js",
+  "dependencies": {
+    "koa": "^2.3.0",
+    "koa-router": "^7.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dknitrox/koaEngineExample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dknitrox/koaEngineExample/issues"
+  },
+  "homepage": "https://github.com/dknitrox/koaEngineExample#readme"
+}
